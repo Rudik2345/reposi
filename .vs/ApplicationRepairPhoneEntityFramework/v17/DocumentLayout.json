@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewallordersmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewallordersmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewmasterorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewmasterorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewdeviceswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewdeviceswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewallorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewallorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\performancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\performancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\mastermenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\mastermenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\managermenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\managermenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\directormenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\directormenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\managermenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\managermenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\createorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\createorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\adddevicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\adddevicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\adddetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\adddetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\dataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\dataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\stockdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\stockdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewallorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewallorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\performancewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\performancewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\createorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\createorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewclientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewclientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\applicationrepairphoneentityframework\\viewmasterorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2940C1-862D-48E2-BC7D-308788D38153}|ApplicationRepairPhoneEntityFramework\\ApplicationRepairPhoneEntityFramework.csproj|solutionrelative:applicationrepairphoneentityframework\\viewmasterorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\order_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\order_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|c:\\users\\huawei\\desktop\\repairequipment_ef_wpf-master\\repaifphonedb\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592878-84F9-4DE6-B251-C56437484DE3}|RepaifPhoneDB\\RepaifPhoneDB.csproj|solutionrelative:repaifphonedb\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewAllOrdersManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewAllOrdersManagerWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewAllOrdersManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewAllOrdersManagerWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewAllOrdersManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewDevicesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewDevicesWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewDevicesWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewDevicesWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewDevicesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewEmployeeWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewMasterOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewAllOrdersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerformanceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterMenuWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\MasterMenuWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\MasterMenuWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\MasterMenuWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\MasterMenuWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:58:56.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerMenuWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DirectorMenuWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\DirectorMenuWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\DirectorMenuWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\DirectorMenuWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\DirectorMenuWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerMenuWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ManagerMenuWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAD4vyUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:55:38.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\App.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\App.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\App.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:52:17.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\AddEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddEmployeeWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\AddEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddDeviceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddDeviceWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\AddDeviceWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddDeviceWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\AddDeviceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddClientWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\AddDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddDetailsWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\AddDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ApplicationContext.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ApplicationContext.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwEQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:16.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ViewClientsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewClientsWindow.xaml",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewClientsWindow.xaml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewClientsWindow.xaml",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewClientsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:31:17.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\DataOperations.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\DataOperations.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\DataOperations.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\DataOperations.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:34:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Client.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Client.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Client.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Order.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Order.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Order.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Performance.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Performance.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Performance.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Performance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StockDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\StockDetails.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\StockDetails.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\StockDetails.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\StockDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Relationship.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Relationship.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Relationship.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Relationship.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Relationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ViewAllOrdersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewAllOrdersWindow.xaml.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAADwv7QAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\SendEmail.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\SendEmail.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\SendEmail.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\SendEmail.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAewCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PerformanceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\PerformanceWindow.xaml.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAewOIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewDetailsWindow.xaml.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAMwIwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\CreateOrderWindow.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Order_Status.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Order_Status.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Order_Status.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Order_Status.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Order_Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewMasterOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\ViewMasterOrderWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Position.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Position.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Position.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddClientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml.cs",
+              "RelativeToolTip": "ApplicationRepairPhoneEntityFramework\\AddClientWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Device.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Device.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Device.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Device.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Employee.cs",
+              "RelativeDocumentMoniker": "RepaifPhoneDB\\Employee.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\RepairEquipment_EF_WPF-master\\RepaifPhoneDB\\Employee.cs",
+              "RelativeToolTip": "RepaifPhoneDB\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:17.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
